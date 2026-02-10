@@ -52,7 +52,7 @@ Analisar métricas de turnover como taxa de rotatividade, tempo médio de empres
 - Análise de métricas de RH
 
 ## 👨‍💻 Autor
-[Seu Nome]
+Lucas Magalhães Amaral
 - GitHub: [@Twolker23](https://github.com/Twolker23)
 - LinkedIn: www.linkedin.com/in/lucas-magalhaes-amaral
 
