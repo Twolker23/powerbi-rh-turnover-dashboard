@@ -37,7 +37,7 @@ Analisar métricas de turnover como taxa de rotatividade, tempo médio de empres
 3. Os dados já estão incluídos no arquivo
 
 ## 📸 Preview
-![Dashboard de Turnover](images/dashboard-full.png)
+![Dashboard de Turnover](dashboard.png)
 
 ## 🔍 Insights Identificados
 - Taxa de turnover de 50% no período analisado
