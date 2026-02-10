@@ -25,9 +25,36 @@ Analisar métricas de turnover como taxa de rotatividade, tempo médio de empres
 5. **Tabela Detalhada**: Dados individuais dos funcionários
 
 ## 📁 Estrutura do Projeto
-
-powerbi-rh-turnover-dashboard/
 ├── README.md
 ├── images/dashboard-full.png
 ├── data/dados_turnover.xlsx
 └── dashboard/Turnover_RH.pbix
+
+
+## 🚀 Como Executar
+1. Baixe o arquivo `Turnover_RH.pbix`
+2. Abra no **Power BI Desktop** (disponível gratuitamente)
+3. Os dados já estão incluídos no arquivo
+
+## 📸 Preview
+![Dashboard de Turnover](images/dashboard-full.png)
+
+## 🔍 Insights Identificados
+- Taxa de turnover de 50% no período analisado
+- Departamento de Vendas com maior número de saídas
+- "Pedido de Demissão" foi o motivo mais comum
+- Pico de saídas no primeiro trimestre
+
+## 📚 Aprendizados
+- Criação de medidas com DAX
+- Transformação de dados com Power Query
+- Design de dashboards interativos
+- Análise de métricas de RH
+
+## 👨‍💻 Autor
+[Seu Nome]
+- GitHub: [@Twolker23](https://github.com/Twolker23)
+- LinkedIn: www.linkedin.com/in/lucas-magalhaes-amaral
+
+## 📄 Licença
+Este projeto é de código aberto e está disponível para fins educacionais.
