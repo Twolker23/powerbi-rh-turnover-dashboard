@@ -25,6 +25,7 @@ Analisar métricas de turnover como taxa de rotatividade, tempo médio de empres
 5. **Tabela Detalhada**: Dados individuais dos funcionários
 
 ## 📁 Estrutura do Projeto
+
 powerbi-rh-turnover-dashboard/
 ├── README.md
 ├── images/dashboard-full.png
